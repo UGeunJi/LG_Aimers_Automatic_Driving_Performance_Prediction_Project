@@ -1,10 +1,10 @@
 # 🔥 Optimus
 > LG Aimers
-- 박종원
-- 박현지
-- 양주연
+- [박종원](https://github.com/qwqw82000)
+- [박현지](https://github.com/parkhyunji1)
+- **[양주연](https://github.com/juyeon211)**
 - [전상민](https://github.com/sangmandu)
-- 지우근
+- [지우근](https://github.com/UGeunJi)
 
 # 📗 Rule
 - 만나는 날짜 : `화목 오후 4시` `일요일 오후 10시`
