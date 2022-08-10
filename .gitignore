@@ -2,3 +2,15 @@
 .Rhistory
 .RData
 .Ruserdata
+JongWon/폴더 5/Y_10_pred.csv
+JongWon/폴더 5/Y_08_pred.csv
+JongWon/폴더 5/Y_09_pred.csv
+JongWon/폴더 5/Y_06_pred.csv
+JongWon/폴더 5/Y_05_pred.csv
+*.csv
+JongWon/폴더 5/pycaret_tune_bag_ens_tbm.pickle
+JongWon/폴더 5/pycaret_tune_bag_ens_bm.pickle
+JongWon/폴더 5/catboost_info/time_left.tsv
+JongWon/폴더 5/catboost_info/learn_error.tsv
+JongWon/폴더 5/catboost_info/learn/events.out.tfevents
+JongWon/폴더 5/catboost_info/catboost_training.json
