@@ -22,3 +22,19 @@
 - 기본 pycaret 실습+ 결과에 소수점 2번째 자리까지 반올림 후 제출
 - LB값 ![image-20220810153505845](D:\다운로드\image-20220810153505845.png)
 
+
+
+# 폴더 6
+
+## 파생변수 잔뜩생성
+
+파생변수 60개 생성해서 train 데이터에 넣기
+
+## 파생변수 잔뜩 생성 후 mlp와 xgboost 돌려보기
+
+116개의 파생변수로 GridSearchCV MultiOutputRegressor 돌려서 제출해보기
+
+![이미지 3](C:\Users\user\Documents\GitHub\Optimus\JongWon\폴더 6\이미지 3.png)
+
+결과는 이러함
+
