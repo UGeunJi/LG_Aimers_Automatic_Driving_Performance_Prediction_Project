@@ -34,7 +34,7 @@
 
 116개의 파생변수로 GridSearchCV MultiOutputRegressor 돌려서 제출해보기
 
-![이미지 3](C:\Users\user\Documents\GitHub\Optimus\JongWon\폴더 6\이미지 3.png)
+![image-20220810153505845](https://user-images.githubusercontent.com/76269640/184179502-44b3cc24-9f1e-40e0-997a-4822de73c3ca.png)
 
 결과는 이러함
 
