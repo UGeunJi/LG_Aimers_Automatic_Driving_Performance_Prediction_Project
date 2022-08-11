@@ -49,4 +49,4 @@
 - y컬럼별로 메타데이터에 들어가 있지 않은 데이터들은 행별로 삭제
 - 걸러진 데이터로 모델생성후 train 데이터 전체로 score 확인 ====> 1.7355972148727803
 - 하지만 리더보드는 성능이 않좋음
-- ![image-20220812010022217](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20220812010022217.png)
+- ![image](https://user-images.githubusercontent.com/76269640/184179157-c000a296-c01d-419b-9743-9b8ede1dc346.png)
