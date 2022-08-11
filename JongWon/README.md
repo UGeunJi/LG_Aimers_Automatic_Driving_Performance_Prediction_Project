@@ -20,7 +20,7 @@
 
 - 일단 한번 해봐야 할것 같아서 진행중
 - 기본 pycaret 실습+ 결과에 소수점 2번째 자리까지 반올림 후 제출
-- LB값 ![image-20220810153505845](D:\다운로드\image-20220810153505845.png)
+- LB값 ![image-20220810153505845](https://user-images.githubusercontent.com/76269640/184179782-be6d6edc-ec61-4ae1-af91-13b3366c2b6f.png)
 
 
 
@@ -34,7 +34,7 @@
 
 116개의 파생변수로 GridSearchCV MultiOutputRegressor 돌려서 제출해보기
 
-![image-20220810153505845](https://user-images.githubusercontent.com/76269640/184179502-44b3cc24-9f1e-40e0-997a-4822de73c3ca.png)
+![이미지 3](https://user-images.githubusercontent.com/76269640/184179960-daee801b-0325-4e14-b0a2-268c54b9cefc.png)
 
 결과는 이러함
 
