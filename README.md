@@ -2,7 +2,7 @@
 > LG Aimers
 - [박종원](https://github.com/qwqw82000)
 - [박현지](https://github.com/parkhyunji1)
-- **[양주연](https://github.com/juyeon211)**
+- **[양주연(Leader)](https://github.com/juyeon211)**
 - [전상민](https://github.com/sangmandu)
 - [지우근](https://github.com/UGeunJi)
 
