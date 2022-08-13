@@ -50,3 +50,28 @@
 - 걸러진 데이터로 모델생성후 train 데이터 전체로 score 확인 ====> 1.7355972148727803
 - 하지만 리더보드는 성능이 않좋음
 - ![image](https://user-images.githubusercontent.com/76269640/184179157-c000a296-c01d-419b-9743-9b8ede1dc346.png)
+
+## 간단한 EDA
+
+- 범위내 범위 밖 데이터에 대한 그래프를 하나하나 살펴보기 + train데이터와 test 데이터의 분포 살펴보기
+
+# 폴더 8
+
+![image-20220813002456949](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20220813002456949.png)
+
+![image-20220813002604775](C:\Users\user\Documents\GitHub\Optimus\JongWon\폴더 8\image-20220813002604775.png)
+
+## 표준화 빡시게 해서 학습하기
+
+
+
+## 정규화 빡시게 해서 학습하기
+
+- [평균정규화로 Pandas 데이터 프레임 정규화](https://www.delftstack.com/ko/howto/python-pandas/pandas-normalize/#%ED%8F%89%EA%B7%A0%EC%A0%95%EA%B7%9C%ED%99%94%EB%A1%9C-pandas-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%84%EB%A0%88%EC%9E%84-%EC%A0%95%EA%B7%9C%ED%99%94)
+- [`최소-최대`정규화로 Pandas 데이터 프레임 정규화](https://www.delftstack.com/ko/howto/python-pandas/pandas-normalize/#%EC%B5%9C%EC%86%8C-%EC%B5%9C%EB%8C%80%EC%A0%95%EA%B7%9C%ED%99%94%EB%A1%9C-pandas-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%84%EB%A0%88%EC%9E%84-%EC%A0%95%EA%B7%9C%ED%99%94)
+- [`quantile` 정규화로 Pandas 데이터 프레임 정규화](https://www.delftstack.com/ko/howto/python-pandas/pandas-normalize/#quantile-%EC%A0%95%EA%B7%9C%ED%99%94%EB%A1%9C-pandas-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%84%EB%A0%88%EC%9E%84-%EC%A0%95%EA%B7%9C%ED%99%94)
+
+보통 데이터는 통상적으로는 **표준화를 통해 이상치를 제거하고, 그 다음 데이터를 정규화 해 상대적 크기에 대한 영향력을 줄인 다음 분석을 시작한다**고 한다.
+
+## pca 분석
+
