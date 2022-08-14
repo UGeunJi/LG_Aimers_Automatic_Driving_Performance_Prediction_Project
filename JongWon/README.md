@@ -75,3 +75,65 @@
 
 ## pca 분석
 
+-  pca 36일때
+
+- ![image-20220814002741007](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20220814002741007.png)
+
+- pca 1 일때
+
+  ![image-20220814002813214](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20220814002813214.png)
+
+
+
+
+
+# 폴더 9
+
+## 세개 변수로 pca 후 분석
+
+대부분의 데이터를 보면 
+
+![image-20220814003140324](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20220814003140324.png)
+
+Y_01과 Y_02와 Y_03의 데이터의 rmse가 높게 나온다.
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Y_01을 잘 설명하는 데이터는 다음과 같다.
+
+  
+
+![image-20220814003402079](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20220814003402079.png)
+
+1,2,3,4 순서대로 X_18, X_22, X_20, X_52 순서이다.
+
+- Y_02을 잘 설명하는 데이터는 다음과 같다.
+
+![image-20220814003506375](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20220814003506375.png)
+
+1,2,3,4 순서대로X_22,X_20, X_18, X_14 순서이다.
+
+- Y_03을 잘 설명하는 데이터는 다음과 같다.
+
+![image-20220814003614159](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20220814003614159.png)
+
+1,2,3,4 순서대로X_18,X_22, X_43, X_19 순서이다.(6등으로 X_20도 존재)
+
+
+
+- 공통점을 보았을때 X_18, X_22,X_20데이터는 항상 존재한다.
+
+  
+
+-> pca 분석을 위 세개의 설명
+
+![image-20220814004921667](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20220814004921667.png)
+
+(성능이 잘 나오지 않는다)
+
+
+
